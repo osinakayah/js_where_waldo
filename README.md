@@ -1,24 +1,20 @@
-# README
+## Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A where waldo game written with ruby and javascript
+## Installation
+* Clone the repository
 
-Things you may want to cover:
+* Run bundle install 
 
-* Ruby version
+* Run migrations
 
-* System dependencies
+* Run rails db:seed
 
-* Configuration
+* Run yarn install
 
-* Database creation
+* Run rails s
 
-* Database initialization
+Contributors 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Sanel Hozdic
+Osinakayah Ifeanyi
